@@ -2,7 +2,7 @@ package sn.airbnb.ml
 
 object Main extends SparkSessionTrait {
   def main(args: Array[String]): Unit = {
-    val filePath = "/home/dmboup/gitProjects/advanced_functional_programming/datasets/sf-airbnb/sf-airbnb.csv"
+    val filePath = "datasets/sf-airbnb/sf-airbnb.csv"
     val cleanDF = Reader.read(spark, filePath)
       .transform(Preprocessor.preprocess)
 

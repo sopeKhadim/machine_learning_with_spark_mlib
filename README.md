@@ -16,7 +16,7 @@ Airbnb est un service de plateforme communautaire payant de location de vacances
  <img src="http://insideairbnb.com/images/insideairbnb_graphic_site_1200px.png" style="width:800px"/>
 
 ## Installation
-- git clone https://github.com/sopeKhadim/airbnb_sparkML.git
+- git clone https://github.com/sopeKhadim/machine_learning_with_spark_mlib.git
 - Se déplacer dans le dossier
 - Run sbt package
 

@@ -1,4 +1,4 @@
-## Machine Learning project with Spark ML
+## Machine Learning project with Spark MLib
 MLlib est une bibliothèque qui permet de faire du Machile Learning dans Spark. Son objectif est de rendre l'apprentissage automatique pratique évolutif et facile. Cette API fournit un ensemble outils tels que:
 
 * **Algorithmes ML**: la plupart des algorithmes d'apprentissage courants tels que la classification, la régression, le clustering et le filtrage collaboratif
